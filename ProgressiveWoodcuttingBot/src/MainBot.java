@@ -104,7 +104,7 @@ import org.dreambot.api.randoms.RandomEvent;
 									getTabs().logout();
 								}
 								
-								log("Need to purchase an axe in order for the script to continue");
+								log("Need to purchase an axe that corresponds to your woodcutting level in order for the script to continue");
 							}
 						}
 					}
